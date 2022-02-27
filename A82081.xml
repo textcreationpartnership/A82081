@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from his Excellency Sir Tho: Fairfax and the general councel of the army, of their resolutions to the Parliament in their proceedings concerning the King. II Januarii, 1647. Read twice in the Honorable House of Commons, and upon the question approved, and ordered to be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82081</idno>
+            <idno type="STC">Wing D583</idno>
+            <idno type="STC">Thomason E422_21</idno>
+            <idno type="STC">ESTC R204807</idno>
+            <idno type="EEBO-CITATION">99864269</idno>
+            <idno type="PROQUEST">99864269</idno>
+            <idno type="VID">116494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116494)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from his Excellency Sir Tho: Fairfax and the general councel of the army, of their resolutions to the Parliament in their proceedings concerning the King. II Januarii, 1647. Read twice in the Honorable House of Commons, and upon the question approved, and ordered to be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 12. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated on p.7: "January the 9th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1642-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116494:1" rendition="simple:additions"/>
+            <p>A DECLARATION From His Excellency Sir Tho: Fairfax AND The general Councel of the ARMY, OF Their Reſolutions to the Parliament in their Proceedings Concerning the KING.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <opener>
+                        <date>
+                           <hi>11 Januarii, 1647.</hi>
+                        </date>
+                     </opener>
+                     <p>REad twice in the Honorable Houſe of Commons, and upon the Queſtion approved, and Ordered to be forthwith printed and publiſhed.</p>
+                     <closer>
+                        <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>Jan.</hi> 12. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:116494:2"/>
+            <pb n="3" facs="tcp:116494:2"/>
+            <head>A Declaration from His Excellency Sir <hi>Thomas Fairfax</hi> and the ge<g ref="char:EOLhyphen"/>neral Councel of the Army, of their Reſolutions to the Parlia<g ref="char:EOLhyphen"/>ment in their Proceedings con<g ref="char:EOLhyphen"/>cerning the King.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Otwithſtanding the high vi<g ref="char:EOLhyphen"/>olations of the Kingdoms Rights and Liberties, and the endeavors to ſwallow up the whole Intereſt of the Kingdom, into the Power and Will of a KING; which the preſent Kings Reign hath afforded: We have obſerved, That the Parliament was (through His Neceſ<g ref="char:EOLhyphen"/>ſities, and againſt His declared Intentions to the contrary) called and put into a con<g ref="char:EOLhyphen"/>dition of Vindicating the Kingdom in thoſe things, and hath yet acted with
+<pb n="4" facs="tcp:116494:3"/>that tenderneſs towards the King (as to any thing of Right that might be in Him, or Duty towards Him) as that in the Proteſtation, Covenant, and many De<g ref="char:EOLhyphen"/>clarations publiſhed by them, They have held forth a careful regard of the preſer<g ref="char:EOLhyphen"/>vation of the Kings Perſon, and juſt Rights, with and in the preſervation and vindication of the publique Intereſts and Safety of the Kingdom; And by the whole Series of their Actions, and their manifold humble Addreſſes to Him for the preſervation and ſettlement of all: They have (we conceive) abundantly de<g ref="char:EOLhyphen"/>monſtrated the Reality and Innocency of their Intentions towards Him.</p>
+            <p>In all which we have ſtill underſtood the Sence and Intention to be no other, then that the preſervation of the Kings Perſon, and particular Rights, ſhould be ſo far endeavored, as it might be conſi<g ref="char:EOLhyphen"/>ſtent with, and not deſtructive to, thoſe greater and more obliging publique Inte<g ref="char:EOLhyphen"/>reſts of, Religion, and the Rights, Liber<g ref="char:EOLhyphen"/>ties,
+<pb n="5" facs="tcp:116494:3"/>and Safety of the Kingdom, and not otherwiſe.</p>
+            <p>And according<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Declarati<g ref="char:EOLhyphen"/>ons and Papers, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſionally paſſed from this Army (as to <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of ſettlement to the Kingdom:) <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> expreſſed our real wiſhes, That if the King would, in things Neceſſary, and Eſ<g ref="char:EOLhyphen"/>ſential to the clearing, ſettling, and ſecu<g ref="char:EOLhyphen"/>ring of thoſe publique Intereſts, give His concurrence (to put them paſt future diſputes) Then His Rights ſhould be conſidered, and ſettled, ſo far as might be conſiſtent with thoſe Superior Intereſts of the Publique, and the Security thereof for future.</p>
+            <p>And that by an Addreſs to the King upon things ſo purely Eſſential to thoſe Publique ends, it might once come to a clear tryal, Whether we could, with the preſervation of the Kings Perſon, and particular Intereſt, have a Security to the other, hath been our earneſt Deſire, our great expectation, and our endeavor, that
+<pb n="6" facs="tcp:116494:4"/>we and others might be kept in a patient waiting for ſuch an iſſue.</p>
+            <p>Now in the Parliaments laſt Addreſs to the King, we finde they have inſiſted onely upon ſome few things, ſo Eſſential to that Intereſt of the Kingdom which they have hitherto engaged for, as that without betraying the Safety of the Kingdom and themſelves, and all that had engaged with them in that Cauſe, or without denying that which God in the iſſue of the War hath been ſuch Teſtimo<g ref="char:EOLhyphen"/>ny unto, they could not go lower; And (thoſe things granted) they have offered to Treat for all the reſt.</p>
+            <p>Thus we accompt that great buſineſs of ſettlement to the Kingdom, and Secu<g ref="char:EOLhyphen"/>rity to the publique Intereſt thereof, by and with the Kings concurrence to be brought to ſo clear a Tryal, as that (upon the Kings denyal of thoſe things) we can ſee no further hopes of ſettlement, or Se<g ref="char:EOLhyphen"/>curity that way: And therefore under<g ref="char:EOLhyphen"/>ſtanding, that upon the conſideration of
+<pb n="7" facs="tcp:116494:4"/>that Denial, added to ſo many other, the Honorable Houſe of Commons by ſeve<g ref="char:EOLhyphen"/>ral Votes on Monday laſt, have reſolved, Not to make any further Addreſs or Ap<g ref="char:EOLhyphen"/>plication to the King, nor receive any from Him, nor to ſuffer either, in others: We do freely and unanimouſly Declare, (for our ſelves and the Army) That we are reſolved (through the Grace of God) firmly to adhere to, and ſtand by the Par<g ref="char:EOLhyphen"/>liament in thoſe things Voted on Mon<g ref="char:EOLhyphen"/>day laſt concerning the King, and in what ſhall be further neceſſary for pro<g ref="char:EOLhyphen"/>ſecution thereof; and for the ſetling and ſecuring of the Parliament and Kingdom without the King, and againſt Him, or any other that ſhall hereafter partake with Him.</p>
+            <closer>
+               <dateline>
+                  <hi>At the general Councel of the Army at</hi> VVindſor, <date>
+                     <hi>Ja<g ref="char:EOLhyphen"/>nuary the</hi> 9<hi rend="sup">th</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <pb n="8" facs="tcp:116494:5"/>
+            <p>The Queſtion being put, Whether this Declaration ſhall paſs in the Name of the General and this Councel, It was Reſolved in the Affirmative <hi>(nemine con<g ref="char:EOLhyphen"/>tradicente.)</hi>
+            </p>
+            <closer>
+               <signed>By the appointment of His Ex<g ref="char:EOLhyphen"/>cellency Sir <hi>Thomas Fairfax,</hi> and the general Councel of the Army, Signed, JOHN RUSHWORTH.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
